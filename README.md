@@ -1,9 +1,6 @@
-![](https://pbs.twimg.com/profile_banners/548138481/1617978450/1080x360)
-
 
 # Fala galera, tudo odara? 👋🏿 
-
-
+![](https://pbs.twimg.com/profile_banners/548138481/1617978450/1080x360)
 ##  🧘🏿‍ "Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros." 
 
 
