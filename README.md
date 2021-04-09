@@ -1,6 +1,6 @@
 # Fala galera, tudo odara? 👋🏿
 
-O meu nome é Raldiney Ribeiro sou estudante de Desenvolvimento de Sistemas no SENAI e atualmente tenho o Devops como meu objeto de pesquisa.
+O meu nome é Raldiney Ribeiro sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como meu objeto de pesquisa.
 
 
 
