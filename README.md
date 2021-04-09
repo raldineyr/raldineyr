@@ -14,6 +14,9 @@ Encontre-me aqui!  👇🏿
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-CD853F?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raldineyr/)](https://www.linkedin.com/in/raldineyr/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-A0522D?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/raldineyr/)](https://www.instagram.com/raldineyr/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/raldineyr](https://codepen.io/raldineyr))](https://codepen.io/raldineyr)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raldineyr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
