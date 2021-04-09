@@ -1,18 +1,13 @@
-![](https://pbs.twimg.com/profile_banners/548138481/1617978450/1080x360)
-
-
-
-
-
-
-
-
 
 # Fala galera, tudo odara? 👋🏿 
->
-O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como objeto de pesquisa.
->
+
+![](https://pbs.twimg.com/profile_banners/548138481/1617978450/1080x360)
+
 ##  🧘🏿‍ "Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros." 
+
+O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como objeto de pesquisa.
+
+
 
 - 📍 SALVADOR-BA
 - 🧔🏾 Estudante de Desenvolvimento de Sistemas
