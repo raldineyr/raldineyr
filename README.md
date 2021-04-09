@@ -9,7 +9,7 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 
 - 📍 SALVADOR-BA
 - 🧔🏾 Estudante de Desenvolvimento de Sistemas
-- ✍🏿 Interesses: BackEnd, LPIC-1, CCNA, OCA e AWS.
+- ✍🏿 Objetos de pesquisa: BackEnd, LPIC-1, CCNA, OCA e AWS.
 
 Encontre-me aqui!  👇🏿
 
