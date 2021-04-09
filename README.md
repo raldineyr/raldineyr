@@ -1,8 +1,8 @@
-# Fala galera, tudo odara? 👋🏿
+# Fala galera, tudo odara? 👋🏿 [![Gmail Badge](https://img.shields.io/badge/-raldineyr@gmail.com-CD853F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raldineyr@gmail.com)](mailto:raldineyr@gmail.com)
 
 O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como objeto de pesquisa.
 
-[![Gmail Badge](https://img.shields.io/badge/-raldineyr@gmail.com-CD853F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raldineyr@gmail.com)](mailto:raldineyr@gmail.com)
+
 
 
 ## 🌍 "Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros." 
