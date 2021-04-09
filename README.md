@@ -12,7 +12,8 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 - ✍🏿 Interesses: BackEnd, LPIC-1, CCNA, OCA e AWS.
 
 Encontre-me aqui!  👇🏿
-[![Gmail Badge](https://img.shields.io/badge/-raldineyr@gmail.com-CD853F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raldineyr@gmail.com)](mailto:raldineyr@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raldineyr/)](https://www.linkedin.com/in/raldineyr/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-green?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/raldineyr/)](https://www.instagram.com/raldineyr/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/raldineyr](https://codepen.io/raldineyr))](https://codepen.io/raldineyr)
+[![Gmail Badge](https://img.shields.io/badge/-raldineyr@gmail.com-CD853F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raldineyr@gmail.com)](mailto:raldineyr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raldineyr/)](https://www.linkedin.com/in/raldineyr/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-green?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/raldineyr/)](https://www.instagram.com/raldineyr/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/raldineyr](https://codepen.io/raldineyr))](https://codepen.io/raldineyr)
 
 
 
