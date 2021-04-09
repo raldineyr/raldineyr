@@ -1,10 +1,7 @@
 # Fala galera, tudo odara? 👋🏿 
-
+>
 O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como objeto de pesquisa.
-
-
-
-
+>
 ## 🌍 "Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros." 
 
 - 📍 SALVADOR-BA
