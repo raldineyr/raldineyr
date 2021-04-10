@@ -1,6 +1,6 @@
 
 # Fala galera, tudo odara? 👋🏿 
-![](https://pbs.twimg.com/profile_banners/548138481/1617978450/1080x360)
+![Raldiney R](https://user-images.githubusercontent.com/64384382/114269530-0e802280-99de-11eb-85d6-126266c9343d.png)
 ##  🧘🏿‍ "Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros." 
 
 
