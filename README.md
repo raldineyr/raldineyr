@@ -1,7 +1,7 @@
 
 # Fala galera, tudo odara? 👋🏿 
 ![Raldiney R](https://user-images.githubusercontent.com/64384382/114269530-0e802280-99de-11eb-85d6-126266c9343d.png)
-##  🧘🏿‍ "Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros." 
+##  🧘🏿‍ Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros. – T'challa 
 
 
 O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como objeto de pesquisa.
