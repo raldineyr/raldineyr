@@ -1,6 +1,6 @@
 
 # Fala galera, tudo odara? 👋🏿 
-![Raldiney R](https://user-images.githubusercontent.com/64384382/114269530-0e802280-99de-11eb-85d6-126266c9343d.png)
+![1500x500](https://user-images.githubusercontent.com/64384382/114404388-078f1680-9b7c-11eb-871f-990606ca2e61.jpg)
 ##  🧘🏿‍ Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros. – T'challa 
 
 
