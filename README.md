@@ -8,7 +8,7 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 
 - 📍 SALVADOR-BA
 - 🧔🏾 Estudante de Desenvolvimento de Sistemas
-- ✍🏿 Objetos de pesquisa: **C**, **JAVA**, ITILV3, LPIC-1, CCNA, DOCKER, IELTS.
+- ✍🏿 Objetos de pesquisa: **C**, **JAVA**, ITIL V3, LPI-1, CCNA, DOCKER, IELTS.
 
 
 Encontre-me aqui!!  👇🏿
