@@ -9,7 +9,6 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 - 📍 SALVADOR-BA
 - 🧔🏾 Estudante de Desenvolvimento de Sistemas
 - ✍🏿 Objetos de pesquisa:
-- 
 - **Governaça:** ITIL V3;   
 - **Lógica de programação e sintaxe:** C, JAVA, GO;
 - **Sistema Operacional:** GNU/LINUX;
