@@ -4,16 +4,17 @@
 ##  🧘🏿‍ Em tempos de crise, os sábios constroem pontes, enquanto os tolos constroem muros. – T'challa 
 
 
-O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI e atualmente tenho o *DevOps* como interesse profissional e um dia eu chego lá.
+O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI.
 
 - 📍 SALVADOR-BA
 - 🧔🏾 Estudante de Desenvolvimento de Sistemas
 - ✍🏿 Objetos de pesquisa:
-- **Governaça:** ITIL V3;   
-- **Lógica de programação e sintaxe:** C, JAVA, GO;
-- **Sistema Operacional:** GNU/LINUX;
-- **Certificações em estudo:** ITIL V4, LPIC-1, CCNA, IELTS.
-- **Outros:** GIT e GITHub, DOCKER;
+
+- **Governaça:** ITIL V3;
+- **Gerenciamento de projetos:** Git, Github, Jira Software, Confluence e Trello;   
+- **Lógica de programação e Linguagens:** C, JAVA, GO;
+- **Sistemas operacionais:** GNU Linux e Windows;
+- **Certificações (em estudo):** ITIL V3, LPIC-1, CCNA, IELTS.
 
 
 Encontre-me aqui!!  👇🏿
