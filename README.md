@@ -14,7 +14,7 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 - **Versionamento:** Git, Github;
 - **Gerenciamento de projetos:** Jira Software, Confluence e Trello;   
 - **Lógica de programação e linguagens:** C, JAVA, GO;
-- **Sistemas operacionais:** GNU Linux e Windows;
+- **Sistemas operacionais:** GNU Linux e Microsoft Windows;
 - **Certificações (em estudo):** ITIL V3, LPIC-1, CCNA, IELTS.
 
 
