@@ -9,13 +9,13 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 
 - 🧔🏾 Graduando em Desenvolvimento de Sistemas. — 📍 SALVADOR-BA;
 - ✍🏿 Objetos de pesquisa:
-
-- **Governaça:** ITIL V3;
 - **Versionamento:** Git, Github;
 - **Gerenciamento de projetos:** Jira Software, Confluence e Trello;   
-- **linguagens:** C, JAVA, GO;
+- **Aprimoramento de lógica:** C, JAVA, C#, GO;
+- **Especializando-se:** JAVA;
 - **Sistemas operacionais:** GNU Linux e Microsoft Windows;
-- **Certificações (em estudo):** ITIL V3, LPIC-1, IELTS.
+
+
 
 
 ㅤㅤㅤㅤㅤ**Encontre-me aqui!!**  👇🏿
