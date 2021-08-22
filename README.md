@@ -11,7 +11,7 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 - ✍🏿 Objetos de pesquisa: Java Back-End Developer and Spring Boot.
 - **Versionamento:** Git, Github;
 - **Gerenciamento de projetos:** Jira Software, Confluence e Trello;   
-- **Aprimoramento de lógica:** URI Online Judgement, CodeWars, Code.org;
+- **Aprimoramento de lógica:** URI Online Judgement, Code.org;
 - **Especializando-se:** JAVA;
 - **Sistemas operacionais:** GNU Linux e Microsoft Windows;
 
