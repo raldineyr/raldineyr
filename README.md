@@ -9,10 +9,11 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 
 - 🧔🏾 Graduando em Desenvolvimento de Sistemas. — 📍 SALVADOR-BA;
 - ✍🏿 Objetos de pesquisa: Java Back-End Developer and Spring Boot.
+- **Especializando-se:** JAVA;
 - **Versionamento:** Git, Github;
 - **Gerenciamento de projetos:** Confluence e Trello;   
-- **Aprimoramento de lógica:** URI Online Judgement, Code Wars, Hacker Hank e Code for Win;
-- **Especializando-se:** JAVA;
+- **Aprimoramento de lógica:** URI, Code Wars, HackerHank;
+
 - **Sistemas operacionais:** GNU Linux e Microsoft Windows;
 
 
