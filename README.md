@@ -13,7 +13,7 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 - **Versionamento:** Git, Github;
 - **Aprimoramento de lógica:** LeetCode, HackerHank;
 
-- **Sistemas operacionais:** GNU Linux e Microsoft Windows;
+- **Sistemas operacionais:** Ubuntu e Microsoft Windows;
 
 
 
