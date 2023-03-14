@@ -7,12 +7,11 @@
 O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI.
 
 
-- 🧔🏾 Graduando em Desenvolvimento de Sistemas. — 📍 SALVADOR-BA;
-- ✍🏿 Objetos de pesquisa: Java Back-End Developer and Spring Boot.
+- 🧔🏾 Graduando técnico Desenvolvimento de Sistemas. — 📍 SALVADOR-BA;
+- ✍🏿 Objetos de pesquisa: Algoritimo e Estrutura de Dados, Java, MysQL e Spring Boot.
 - **Especializando-se:** JAVA;
 - **Versionamento:** Git, Github;
-- **Gerenciamento de projetos:** Confluence e Trello;   
-- **Aprimoramento de lógica:** URI, Code Wars, HackerHank;
+- **Aprimoramento de lógica:** LeetCode, HackerHank;
 
 - **Sistemas operacionais:** GNU Linux e Microsoft Windows;
 
