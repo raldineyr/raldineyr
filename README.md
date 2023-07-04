@@ -10,7 +10,6 @@ O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas**
 - 👨🏿‍🏫 Graduado técnico em Desenvolvimento de Sistemas. Agosto/2021 - **Jan/2023.** — 📍 SALVADOR-BA;
 - 👨🏿‍💼 Graduando Superior em Análise e Desenvolvimento de Sistemas. **Atualmente** - Fev/2026. — 📍 SALVADOR-BA;
 - ✍🏿 Objetos de pesquisa: Algoritimo e Estrutura de Dados, Java, MysQL e Spring Boot.
-  
 - **Especializando-se:** Algoritmo e Estrutura de Dados, JAVA, SpringBoot;
 - **Versionamento:** Git, Github;
 - **Aprimoramento de lógica:** LeetCode, Hackerrank;
