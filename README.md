@@ -7,7 +7,7 @@
 O meu nome é Raldiney Ribeiro, sou estudante de **Desenvolvimento de Sistemas** no SENAI.
 
 
-- 👨🏿‍🏫 Graduado técnico em Desenvolvimento de Sistemas. Agosto/2021 - **Jan/2023.** — 📍 SENAI SSP-BA;
+- 👨🏿‍🏫 Graduado técnico em Desenvolvimento de Sistemas. Agosto/2021 - **Jan/2023.** — 📍 SENAI SSA-BA;
 - 👨🏿‍💼 Graduando Superior em Análise e Desenvolvimento de Sistemas. **Atualmente** - Fev/2026. — 📍 UniSENAI-SC;
 - ✍🏿 Objetos de pesquisa: Algoritimo e Estrutura de Dados, Java, MysQL e Spring Boot.
 - **Especializando-se:** Algoritmo e Estrutura de Dados, JAVA, Spring Boot;
